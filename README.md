@@ -21,9 +21,9 @@ Aplikasi perpustakaan berbasis web yang dibuat sebagai tugas **Uji Kompetensi Ke
 
 ### 1. Admin
 
-* **Nama:** Wawan
-* **Email:** [wawan@gmail.com](mailto:wawan@gmail.com)
-* **Password:** 12345
+* **Nama:** admin
+* **Email:** amalia@gmail.com
+* **Password:** admin
 
 Admin bertugas mengelola seluruh data pada sistem seperti data anggota, data buku, dan peminjaman.
 
