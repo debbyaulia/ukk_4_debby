@@ -31,9 +31,9 @@ Admin bertugas mengelola seluruh data pada sistem seperti data anggota, data buk
 
 ### 2. Siswa
 
-* **Nama:** Amalia
-* **Email:** [amalia@gmail.com](mailto:amalia@gmail.com)
-* **Password:** 12345
+* **Nama:** user
+* **Email:** user@gmail.com
+* **Password:** user
 
 Siswa dapat melihat data buku dan melakukan proses peminjaman buku.
 
