@@ -1,5 +1,5 @@
 http://debby-perpus.ct.ws/
-https://perpustakaan-debby.kesug.com/
+
 # UKK Aplikasi Perpustakaan Digital
 
 Aplikasi perpustakaan berbasis web yang dibuat sebagai tugas **Uji Kompetensi Keahlian (UKK)** jurusan Rekayasa Perangkat Lunak.
@@ -42,3 +42,4 @@ Siswa dapat melihat data buku dan melakukan proses peminjaman buku.
 Debby Aulia
 XII RPL 2
 SMK Sangkuriang 1 Cimahi
+https://perpustakaan-debby.kesug.com/
